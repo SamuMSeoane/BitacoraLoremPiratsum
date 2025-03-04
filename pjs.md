@@ -4,6 +4,8 @@ Lista de personajes jugadores
 Alberto Guardi
 --------------
 
+![Alberto Guardi](img/alberto_guardi.jpg).
+
 *Me llamo Alberto Guardi, 26 años, genovés. Sin profesión conocida, un dandy. Soy un guaperas arrogante y bocazas. Buscando la belleza en los mares, puertos y gentes del Caribe, tratando de vivir a lo grande y buscando a su mamá que se fugó con un filibustero cuando no era más que un recién nacido.*
 
 Tras media docena de años dando tumbos por el Nuevo Mundo,  parecía que por fin habías encontrado una buena pista sobre el paradero de tu madre. La cocinera de una taberna en Bahamas había conocido años atrás a una Giuliana Chiessaro (su nombre de soltera) trabajando de criada en Caracas, en la casa de los señores de Atienza. Y que además, se te parecía bastante. 
