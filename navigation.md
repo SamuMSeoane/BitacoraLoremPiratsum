@@ -7,20 +7,20 @@
 
 [Los lugares]()
 
- * [La Guaira]()
+ * [La Guaira](enconstruccion.md)
 
 
 [Las aventuras]()
 
  * # Prólogos
- * [El prólogo de tierra]()
- * [El prólogo del mar]()
+ * [El prólogo de tierra](enconstruccion.md)
+ * [El prólogo del mar](enconstruccion.md)
  ----
  * # Introducción
- * [Desembarco en La Guaira]()
+ * [Desembarco en La Guaira](enconstruccion.md)
  ----
  * # Capítulo 1
- * [(en preparación)]()
+ * [(Pendiente de jugar)](enconstruccion.md)
 
 
 
