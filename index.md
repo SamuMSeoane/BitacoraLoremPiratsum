@@ -1,7 +1,8 @@
-Mar Caribe 1620.
+Lorem Piratsum
 ==============
 
-![Bienvenido a Lorem Piratsum](https://samumseoane.github.io/BitacoraLoremPiratsum/img/bandera_rota.jpg)
+![Las Antillas y el Caribe](img/antilles1681.jpg "Islas del Caribe").
+
 
 
 Bienvenido a la crónica de esta partida de rol. 
