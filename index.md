@@ -1,7 +1,7 @@
 Mar Caribe 1620.
 ==============
 
-![Bienvenido a Lorem Piratsum](/img/bandera_rota.jpg)
+![Bienvenido a Lorem Piratsum](https://samumseoane.github.io/BitacoraLoremPiratsum/img/bandera_rota.jpg)
 
 
 Bienvenido a la crónica de esta partida de rol. 
